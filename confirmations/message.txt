@@ -1,0 +1,1 @@
+Cybersecurity is intriguing because we live in a digital era where everyone's personal info is online, whether we know about it or not. I find tools like RSA and AES quite interesting. Especially AES because it can never be hacked and it's safe against brute force attacks. That and how widely used it is in today's digital platforms.
